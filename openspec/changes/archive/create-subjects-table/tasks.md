@@ -1,0 +1,5 @@
+- [x] Create the OpenSpec change for the subjects table
+- [x] Define the subjects table schema
+- [x] Generate the XanoScript file in the tables directory
+- [x] Push the table to Xano
+- [x] Archive the change
